@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abel Granados
 - 👀 I’m interested in programming, psychology, philosophy, videogames and a lot of things more...
-- 🌱 I’m currently learning javaScript, English, autoHotKey and Gimp.
+- 🌱 I’m always learning javaScript, English, sales, AutoHotKey and Gimp.
 - 💞️ I’m looking to growth as a professional.
 - :computer: I will work for you, https://es.fiverr.com/abelgranados
 - 📫 Discord: thinkRand#7433 (UID 681695022600814642)
